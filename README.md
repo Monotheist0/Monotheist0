@@ -1,6 +1,9 @@
 # Peace be Upon you, I'm MD Masud Ur Rahman. 
 
 
+Learning technology to build something beneficial for humanity, something I can answer for before my Creator.
+
+
 ## 🎯 Currently Focusing On (Late 2025)
 
 **Active Learning:**
