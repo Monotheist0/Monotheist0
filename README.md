@@ -30,8 +30,8 @@ Welcome to my humble GitHub profile, a digital notebook where I track and update
   <summary>Github Stats!</summary>
   &nbsp;
         
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoytanbaba99&show_icons=true&count_private=true&hide=issues&theme=tokyonight)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoytanbaba99&layout=compact&v=1&theme=tokyonight).
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monotheist0&show_icons=true&count_private=true&hide=issues&theme=tokyonight)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monotheist0&layout=compact&v=1&theme=tokyonight).
 </details>
 
 <br>
