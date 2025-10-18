@@ -1,52 +1,56 @@
-# Hey There, I'm MD Masud Ur Rahman! 👋
+# Peace be Upon you, I'm MD Masud Ur Rahman. 
 
-Welcome to my humble GitHub profile, a digital notebook where I track and update my progress in various fields of technology. Currently exploring different domains to find the "right fit" for me.
 
-## Learning 🚀
-- DSA
-- Unreal Engine
-- Java
+## 🎯 Currently Focusing On (Late 2025)
+
+**Active Learning:**
+- Problem-solving & DSA fundamentals
+- AI fine-tuning & prompt engineering
+- Bash scripting & Linux automation
+
+**Maybe Soon:**
+- Web development (HTML, CSS, JS, React)
+- Software development (Kotlin)
+
+**Comfortable With:**
+- C, C++, Python basics
+- Linux (Fedora KDE)
+- Basic system administration
 
 <details>
-  <summary>Do I know them? Maybe. Did I try them? Yes.</summary>
+  <summary>Things I've explored but not pursuing right now</summary>
   &nbsp;
         
-  - Basic knowledge of C, C++, Python.
-  - Problem-solving? An ongoing process in anyone's life.
+  - Cybersecurity (interesting, but long commitment)
+  - Unreal Engine & Game Dev (future interest)
+  - Java (tried it, not my thing currently)
 </details>
 
+## 📂 What I'm Building
+
+- 🕌 **[Islamic Text Dataset](https://github.com/Monotheist0/Islamic-Text-Dataset)** - OCR'd 50+ Islamic books and tafsirs and collected text version of all the hadiths and quran and books to feed ai.
+- 🧠 **Learning in Public** - Documenting everything I learn
+
+
+> "Problem-solving is an ongoing process in anyone's life."
+
+
 <details>
-  <summary>Things I want to know before I finish my bachelor:</summary>
-&nbsp;
-        
-  - Machine Learning, Neural Networking, and anything related to AI.
-  - DSA, DB, Cloud, AWS, DevOps, and Azure.
-  - Game Development and its many different fields!
-  - CyberSecurity and its Massive subbranches!
-  - Software and Android application development as well.
-  - The least interested I am about is web development, but I will gain some basic understanding of CSS, JS, and React.
-</details>
-<details>
-  <summary>Github Stats!</summary>
+  <summary>GitHub Stats</summary>
   &nbsp;
         
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monotheist0&show_icons=true&count_private=true&hide=issues&theme=tokyonight)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monotheist0&layout=compact&v=1&theme=tokyonight).
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monotheist0&layout=compact&theme=tokyonight)
 </details>
 
-<br>
-I hope to keep ticking off these fields in the upcoming days.
-
-
-
-
-
-
-### Connect with me 🌐
+## 🌐 Connect
 
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/Shoytanbaba99/) &nbsp;&nbsp;
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/md-masud-ur-rahman-657b82262/) &nbsp;&nbsp;
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/Shoytanbaba99)
 
-If you ever want to reach out, feel free to send me an email at masudrahman998@gmail.com or message me on any of these social media platforms.
+Or drop me an email: **masudrahman998@gmail.com**
 
+---
+
+*Last updated: October 2025*
