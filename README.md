@@ -1,7 +1,10 @@
 # Peace be Upon you, I'm MD Masud Ur Rahman. 
 
 
-Learning technology to build something beneficial for humanity, something I can answer for before my Creator.
+Learning technology to build something beneficial for humanity, something I can answer for before my Creator. 
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Chronicles%20of%20Masud-D5805E?style=for-the-badge&logo=github)](https://monotheist0.github.io/)
 
 
 ## 🎯 Currently Focusing On (Late 2025)
