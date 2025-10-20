@@ -19,7 +19,9 @@ Learning technology to build something beneficial for humanity, something I can 
 - Software development (Kotlin)
 
 **Comfortable With:**
-- C, C++, Python basics
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - Linux (Fedora KDE)
 - Basic system administration
 
