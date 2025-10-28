@@ -35,6 +35,7 @@ Learning technology to build something beneficial for humanity, something I can 
 <details>
   <summary>Things I've explored but not actively pursuing</summary>
   &nbsp;
+  
   - Cybersecurity (interesting, but long commitment)
   - Unreal Engine & Game Dev (future interest)
   - Java (tried it, not my thing currently)
