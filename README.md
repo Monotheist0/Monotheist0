@@ -1,47 +1,59 @@
-# Peace be Upon you, I'm MD Masud Ur Rahman. 
+# Peace be Upon you, I'm MD Masud Ur Rahman
 
-
-Learning technology to build something beneficial for humanity, something I can answer for before my Creator. 
-
+Learning technology to build something beneficial for humanity, something I can answer for before my Creator.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Chronicles%20of%20Masud-D5805E?style=for-the-badge&logo=github)](https://monotheist0.github.io/)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/monotheist0)
 
 ## 🎯 Currently Focusing On (Late 2025)
 
-**Active Learning:**
-- Problem-solving & DSA fundamentals
-- AI fine-tuning & prompt engineering
-- Bash scripting & Linux automation
+**Primary Focus - Machine Learning & AI:**
+- 🏆 Kaggle Competitions 
+- 📊 Machine Learning pipelines (XGBoost, feature engineering, model optimization)
+- 🧠 Deep learning foundations (working towards Computer Vision & NLP)
+- 🐍 Python for data science (pandas, scikit-learn, XGBoost)
 
-**Maybe Soon:**
-- Web development (HTML, CSS, JS, React)
-- Software development (Kotlin)
+**Completed Foundations:**
+- ✅ Kaggle: Intro to Python, Pandas, Intro to ML, Intermediate ML
+- ✅ Udemy: Web Development Fundamentals 2024
+- ✅ FreeCodeCamp: HTML, CSS, JavaScript
+
+**Also Practicing:**
+- Problem-solving & DSA fundamentals (C++)
+- AI prompt engineering & fine-tuning
+- Bash scripting & Linux automation
 
 **Comfortable With:**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- Linux (Fedora KDE)
-- Basic system administration
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- Linux (Fedora KDE) & system administration
+- HTML, CSS, JavaScript basics
 
 <details>
-  <summary>Things I've explored but not pursuing right now</summary>
+  <summary>Things I've explored but not actively pursuing</summary>
   &nbsp;
-        
   - Cybersecurity (interesting, but long commitment)
   - Unreal Engine & Game Dev (future interest)
   - Java (tried it, not my thing currently)
 </details>
 
-## 📂 What I'm Building
+### AI & Data Projects
+- 🕌 **[Islamic Text Dataset](https://github.com/Monotheist0/Islamic-Text-Dataset)** - OCR'd 50+ Islamic books and collected 1M+ words from Quran, Hadith, and Tafsir for AI training
+- 📚 **Learning in Public** - Documenting ML journey and problem-solving approaches
 
-- 🕌 **[Islamic Text Dataset](https://github.com/Monotheist0/Islamic-Text-Dataset)** - OCR'd 50+ Islamic books and tafsirs and collected text version of all the hadiths and quran and books to feed ai.
-- 🧠 **Learning in Public** - Documenting everything I learn
+### Upcoming Projects
+- 🖼️ Computer vision challenges
+- 📝 NLP text analysis projects
 
+## 🎓 Learning Path
 
-> "Problem-solving is an ongoing process in anyone's life."
-
+**2025 Progress:**
+- **Oct**: Completed 5 Kaggle ML courses, first competition submission
+- **Target**: Top 1% Kaggle ranking by mid-2026
+- **Goal**: ML Engineer role 
 
 <details>
   <summary>GitHub Stats</summary>
@@ -53,6 +65,7 @@ Learning technology to build something beneficial for humanity, something I can 
 
 ## 🌐 Connect
 
+[![Kaggle](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png)](https://www.kaggle.com/monotheist0) &nbsp;&nbsp;
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/Shoytanbaba99/) &nbsp;&nbsp;
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/md-masud-ur-rahman-657b82262/) &nbsp;&nbsp;
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/Shoytanbaba99)
