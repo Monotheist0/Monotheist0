@@ -2,12 +2,9 @@
 
 Learning technology to build something beneficial for humanity, something I can answer for before my Creator.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Chronicles%20of%20Masud-D5805E?style=for-the-badge&logo=github)](https://monotheist0.github.io/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/monotheist0)
-
 ## 🎯 Currently Focusing On (Late 2025)
 
-**Primary Focus - Machine Learning & AI:**
+**Primary Focus - Machine Learning & AI + Apps:**
 - 🏆 Kaggle Competitions 
 - 📊 Machine Learning pipelines (XGBoost, feature engineering, model optimization)
 - 🧠 Deep learning foundations (working towards Computer Vision & NLP)
@@ -22,6 +19,7 @@ Learning technology to build something beneficial for humanity, something I can 
 - Problem-solving & DSA fundamentals (C++)
 - AI prompt engineering & fine-tuning
 - Bash scripting & Linux automation
+- App development with Flutter
 
 **Comfortable With:**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,16 +43,6 @@ Learning technology to build something beneficial for humanity, something I can 
 - 🕌 **[Islamic Text Dataset](https://github.com/Monotheist0/Islamic-Text-Dataset)** - OCR'd 50+ Islamic books and collected 1M+ words from Quran, Hadith, and Tafsir for AI training
 - 📚 **Learning in Public** - Documenting ML journey and problem-solving approaches
 
-### Upcoming Projects
-- 🖼️ Computer vision challenges
-- 📝 NLP text analysis projects
-
-## 🎓 Learning Path
-
-**2025 Progress:**
-- **Oct**: Completed 5 Kaggle ML courses, first competition submission
-- **Target**: Top 1% Kaggle ranking by mid-2026
-- **Goal**: ML Engineer role 
 
 <details>
   <summary>GitHub Stats</summary>
