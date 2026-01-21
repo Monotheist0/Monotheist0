@@ -4,11 +4,10 @@ Learning technology to build something beneficial for humanity, something I can 
 
 ## 🎯 Currently Focusing On (Late 2025)
 
-**Primary Focus - Machine Learning & AI + Apps:**
-- 🏆 Kaggle Competitions 
-- 📊 Machine Learning pipelines (XGBoost, feature engineering, model optimization)
-- 🧠 Deep learning foundations (working towards Computer Vision & NLP)
-- 🐍 Python for data science (pandas, scikit-learn, XGBoost)
+**Primary Focus - Machine Learning & AI + Apps + Web:**
+- Fullstack Development 
+- Machine Learning 
+- Python for data science 
 
 **Completed Foundations:**
 - ✅ Kaggle: Intro to Python, Pandas, Intro to ML, Intermediate ML
@@ -19,7 +18,7 @@ Learning technology to build something beneficial for humanity, something I can 
 - Problem-solving & DSA fundamentals (C++)
 - AI prompt engineering & fine-tuning
 - Bash scripting & Linux automation
-- App development with Flutter
+- Web development
 
 **Comfortable With:**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,20 +27,32 @@ Learning technology to build something beneficial for humanity, something I can 
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - Linux (Fedora KDE) & system administration
-- HTML, CSS, JavaScript basics
+- HTML, CSS, JavaScript
 
 <details>
-  <summary>Things I've explored but not actively pursuing</summary>
+  <summary>University Coursework & Other Explorations</summary>
   &nbsp;
   
-  - Cybersecurity (interesting, but long commitment)
-  - Unreal Engine & Game Dev (future interest)
-  - Java (tried it, not my thing currently)
+  **Computer Science Foundations (Academic Distinction):**
+  - 📡 **Networking:** Computer Networks, Data Communication, Packet Tracer.
+  - 💾 **Databases:** DBMS, SQL, Entity-Relationship (ER) Modeling.
+  - ⚙️ **Systems:** Computer Architecture, Digital Logic Design.
+  - 🧮 **Theory:** Data Structures & Algorithms (I & II), Discrete Math, Theory of Computation.
+
+
+  **Tech I've Explored:**
+  - 🌐 PHP & Web Application Design (Coursework)
+  - ☕ Java (Object Oriented Programming Coursework)
+  - 🛡️ Cybersecurity (Basic awareness)
+  - 🎮 Unreal Engine (Future interest)
 </details>
 
-### AI & Data Projects
-- 🕌 **[Islamic Text Dataset](https://github.com/Monotheist0/Islamic-Text-Dataset)** - OCR'd 50+ Islamic books and collected 1M+ words from Quran, Hadith, and Tafsir for AI training
-- 📚 **Learning in Public** - Documenting ML journey and problem-solving approaches
+## 📂 Projects
+
+- 🎮 **[The Begging From The Beginning](https://github.com/Monotheist0/The-Begging-From-The-Beginning)** An idle clicker game "vibecoded" in 24 hours for a University Web App course. Features custom sprites, game loop logic, and a PHP/JS backend.  
+- 🌐 **[Learning Web Development](https://github.com/Monotheist0/learning-web-development)** A structured documentation of mastering Vanilla JavaScript—from DOM manipulation & Event Listeners to Async/Await & API handling.
+
+- 🕌 **[Islamic Text Dataset](https://github.com/Monotheist0/Islamic-Text-Dataset)** OCR'd 50+ Islamic books and collected 1M+ words from Quran, Hadith, and Tafsir to build a specialized dataset for AI model training.
 
 
 <details>
