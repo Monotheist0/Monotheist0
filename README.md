@@ -1,77 +1,96 @@
-# Peace be Upon you, I'm MD Masud Ur Rahman
+# Peace be upon you. I am MD Masud Ur Rahman.
 
-Learning technology to build something beneficial for humanity, something I can answer for before my Creator.
+*"Learning technology to build something beneficial for humanity, something I can answer for before my Creator."*
 
-## 🎯 Currently Focusing On (Late 2025)
+CSE Undergraduate at UITS (Graduating 2027).
 
-**Primary Focus - Machine Learning & AI + Apps + Web:**
-- Fullstack Development 
-- Machine Learning 
-- Python for data science 
+I enjoy building reliable software by combining strong computer science fundamentals with practical engineering. My interests include modern web development, distributed systems, data engineering, and applied machine learning.
 
-**Completed Foundations:**
-- ✅ Kaggle: Intro to Python, Pandas, Intro to ML, Intermediate ML
-- ✅ Udemy: Web Development Fundamentals 2024
-- ✅ FreeCodeCamp: HTML, CSS, JavaScript
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</div>
 
-**Also Practicing:**
-- Problem-solving & DSA fundamentals (C++)
-- AI prompt engineering & fine-tuning
-- Bash scripting & Linux automation
-- Web development
+<br>
 
-**Comfortable With:**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- Linux (Fedora KDE) & system administration
-- HTML, CSS, JavaScript
+<br>
 
-<details>
-  <summary>University Coursework & Other Explorations</summary>
-  &nbsp;
-  
-  **Computer Science Foundations (Academic Distinction):**
-  - 📡 **Networking:** Computer Networks, Data Communication, Packet Tracer.
-  - 💾 **Databases:** DBMS, SQL, Entity-Relationship (ER) Modeling.
-  - ⚙️ **Systems:** Computer Architecture, Digital Logic Design.
-  - 🧮 **Theory:** Data Structures & Algorithms (I & II), Discrete Math, Theory of Computation.
+## ⚔️ Current Focus
 
+- Building production-ready full-stack applications with React (RSC, Server Actions, `useOptimistic`), Next.js (App Router, Edge Middleware, Auth.js), Prisma, SQLite, and PostgreSQL.
+- Strengthening core computer science fundamentals through algorithms, databases, software engineering, and system design.
+- Exploring data engineering and applied machine learning using Python, Pandas, Scikit-Learn, OCR, and natural language processing.
 
-  **Tech I've Explored:**
-  - 🌐 PHP & Web Application Design (Coursework)
-  - ☕ Java (Object Oriented Programming Coursework)
-  - 🛡️ Cybersecurity (Basic awareness)
-  - 🎮 Unreal Engine (Future interest)
-</details>
+<br>
 
-## 📂 Projects
+## 🛡️ The Armory
 
-- 🎮 **[The Begging From The Beginning](https://github.com/Monotheist0/The-Begging-From-The-Beginning)** An idle clicker game "vibecoded" in 24 hours for a University Web App course. Features custom sprites, game loop logic, and a PHP/JS backend.  
-- 🌐 **[Learning Web Development](https://github.com/Monotheist0/learning-web-development)** A structured documentation of mastering Vanilla JavaScript—from DOM manipulation & Event Listeners to Async/Await & API handling.
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
 
-- 🕌 **[Islamic Text Dataset](https://github.com/Monotheist0/Islamic-Text-Dataset)** OCR'd 50+ Islamic books and collected 1M+ words from Quran, Hadith, and Tafsir to build a specialized dataset for AI model training.
+<br>
 
+## 📜 Featured Projects
 
-<details>
-  <summary>GitHub Stats</summary>
-  &nbsp;
-        
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monotheist0&show_icons=true&count_private=true&hide=issues&theme=tokyonight)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monotheist0&layout=compact&theme=tokyonight)
-</details>
+<!--
+Replace these with your best production-quality repositories.
+
+🚀 Project Name
+One or two sentences describing the problem, architecture, technologies, and what you engineered.
+
+⚡ Project Name
+One or two sentences describing the implementation and key engineering decisions.
+-->
+
+*Projects currently in development.*
+
+<br>
+
+## 🤝 Open Source
+
+<!--
+Replace these as your pull requests are merged.
+
+- **Repository Name**
+  Short description of your contribution.
+  PR: https://github.com/owner/repository/pull/123
+
+- **Repository Name**
+  Fixed bug / improved documentation / added feature.
+-->
+
+*Actively learning through open source. Contributions will be listed here as they are merged.*
+
+<br>
+
+## ⏳ Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoytanbaba99&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shoytanbaba99&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Shoytanbaba99">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoytanbaba99&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+  </a>
+</div>
+
+<br>
 
 ## 🌐 Connect
 
-[![Kaggle](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png)](https://www.kaggle.com/monotheist0) &nbsp;&nbsp;
-[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/Shoytanbaba99/) &nbsp;&nbsp;
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/md-masud-ur-rahman-657b82262/) &nbsp;&nbsp;
-[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/Shoytanbaba99)
-
-Or drop me an email: **masudrahman998@gmail.com**
-
----
-
-*Last updated: October 2025*
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masudrahman998@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-masud-ur-rahman-657b82262/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/monotheist0)
