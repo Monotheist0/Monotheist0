@@ -41,6 +41,8 @@ I enjoy building reliable software by combining strong computer science fundamen
 
 ## 📜 Featured Projects
 
+⚡ **[FrontDesk](https://github.com/Shoytanbaba99/frontdesk)** · [*Live App ↗*](https://frontdesk-lac.vercel.app) — Multi-tenant booking platform built with Next.js 16, Supabase RLS, & Tailwind CSS.
+
 <!--
 Replace these with your best production-quality repositories.
 
