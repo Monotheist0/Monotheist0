@@ -55,7 +55,7 @@ One or two sentences describing the problem, architecture, technologies, and wha
 One or two sentences describing the implementation and key engineering decisions.
 -->
 
-*Projects currently in development.*
+
 
 <br>
 
