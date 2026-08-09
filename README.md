@@ -43,6 +43,8 @@ I enjoy building reliable software by combining strong computer science fundamen
 
 ⚡ **[FrontDesk](https://github.com/Shoytanbaba99/frontdesk)** · [*Live App ↗*](https://frontdesk-lac.vercel.app) — Multi-tenant booking platform built with Next.js 16, Supabase RLS, & Tailwind CSS.
 
+⚡ **[Typedesk](https://github.com/Shoytanbaba99/typedesk)** · [*Live Demo ↗*](https://shoytanbaba99.github.io/typedesk/) — Retro CRT-terminal typing test built with React 19, TypeScript, and Vite. Sub-millisecond keystroke engine, zero-dependency SVG analytics, 5-theme system. *AI-assisted build — see repo README for engineering notes.*
+
 <!--
 Replace these with your best production-quality repositories.
 
