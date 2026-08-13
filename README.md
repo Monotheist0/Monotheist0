@@ -74,21 +74,36 @@ Replace these as your pull requests are merged.
 
 *Actively learning through open source. Contributions will be listed here as they are merged.*
 
-<br>
-
 ## ⏳ Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoytanbaba99&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoytanbaba99&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shoytanbaba99&bg_color=0d0d0d&color=b9986f&line=e6c07b&point=c18458&area_color=1c1c1c&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    alt="Contribution Activity Graph"
+  />
+
+</div>
+
+<br>
+
+## 🌱 Garden
+
+<div align="center">
+
+  <img
+    src="https://kodama-sigma.vercel.app/Shoytanbaba99.svg"
+    alt="My GitHub contribution bonsai"
+  />
+
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/Shoytanbaba99">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoytanbaba99&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
-  </a>
+
+  <!-- Contribution garden goes here -->
+
 </div>
 
 <br>
